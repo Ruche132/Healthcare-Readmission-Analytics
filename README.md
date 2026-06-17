@@ -112,19 +112,19 @@ Created a multi-page interactive dashboard to visualize:
 
 ### Executive Overview
 
-![Dashboard Page 1](Dashboard_Page1.png)
+![Dashboard Page 1](Images/Dashboard_Page1.png)
 
 ### Patient History & Hospitalization Factors
 
-![Dashboard Page 2](Dashboard_Page2.png)
+![Dashboard Page 2](Images/Dashboard_Page2.png)
 
 ### Socioeconomic & Financial Impact
 
-![Dashboard Page 3](Dashboard_Page3.png)
+![Dashboard Page 3](Images/Dashboard_Page3.png)
 
 ### Hospital & Diagnosis Insights
 
-![Dashboard Page 4](Dashboard_Page4.png)
+![Dashboard Page 4](Images/Dashboard_Page4.png)
 
 ---
 
@@ -132,25 +132,25 @@ Created a multi-page interactive dashboard to visualize:
 
 ### Charlson Comorbidity Index vs Readmission
 
-![CCI Analysis](CciVsReadmission.png)
+![CCI Analysis](Images/CciVsReadmission.png)
 
 ### Age vs Readmission
 
-![Age](AgeVsReadmission.png)
+![Age](Images/AgeVsReadmission.png)
 
 ### Length of Stay vs Readmission
 
-![Length of Stay](LOSVsReadmission.png)
+![Length of Stay](Images/LOSVsReadmission.png)
 
 ### Diagnosis Category vs Readmission
 
-![Diagnosis Category](DiagnosisVsReadmission.png)
+![Diagnosis Category](Images/DiagnosisVsReadmission.png)
 
 
 ###  Comorbidity vs Readmission
 
 
-![Comorbidity](ComorbidityVsReadmission.png)
+![Comorbidity](Images/ComorbidityVsReadmission.png)
 
 
 
